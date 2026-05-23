@@ -29,7 +29,7 @@ Where:
 - $\theta_{ij} = \frac{1}{c_{ij}}$ — heuristic information associated with given edge
 - $\alpha$ — pheromone importance value
 - $\beta$ — heuristic importance value
-- $N_i$ — set of unvisited cities from $i$
+- $N_i$ — set of all candidate nodes connected (next to go to)
 
 ### Pheromone Update
 After each iteration, pheromone evaporates and is added to popular edges:

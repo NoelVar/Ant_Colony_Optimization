@@ -38,7 +38,7 @@ $$\tau_{ij}(t) \leftarrow (1 - \rho) \cdot \tau_{ij}(t) + \frac{1}{C(S^k(t))}$$
 
 Where:
 - $\rho$ — evaporation rate
-- $C_k$ — cost of solution constructed by ant $k$ on iteration $t$
+- $C(S^k(t))$ — cost of solution constructed by ant $k$ on iteration $t$
 
 ---
 

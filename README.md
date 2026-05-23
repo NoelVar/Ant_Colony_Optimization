@@ -34,11 +34,11 @@ Where:
 ### Pheromone Update
 After each iteration, pheromone evaporates and is added to popular edges:
 
-$$\tau_{ij}(t) \leftarrow (1 - \rho) \cdot \tau_{ij}(t) + \sum_{k} \frac{1}{C_k}$$
+$$\tau_{ij}(t) \leftarrow (1 - \rho) \cdot \tau_{ij}(t) + \frac{1}{C_k}$$
 
 Where:
 - $\rho$ — evaporation rate
-- $C_k$ — cost of solution constructedby ant $k$ on iteration $t$
+- $C_k$ — cost of solution constructed by ant $k$ on iteration $t$
 
 ---
 

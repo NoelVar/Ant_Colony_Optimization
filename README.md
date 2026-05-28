@@ -13,6 +13,9 @@ Inspired by:
 - [Ant Colony Optimization — Original Paper](https://www.researchgate.net/publication/308953674_Ant_Colony_Optimization)
 - [Introduction to ACO — GeeksForGeeks](https://www.geeksforgeeks.org/machine-learning/introduction-to-ant-colony-optimization/)
 
+Video Demonstration
+- [Link to video - HERE](https://youtu.be/OckfvPP2EkM)
+  
 ---
 
 ## About the algorithm
